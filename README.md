@@ -54,8 +54,7 @@ Add the following things. To start editing in vim, press "i" - To finish, press 
 Make sure not to change the spacing on any of these, that'll break them!
 
 Top thing: tells Node that you are going to be working on a development server.
-Second thing: lets you locally test any emails that get sent (replace the example with your own email address).
-Third thing: tells the code what url you'll be using.
+Second thing: tells the code what url you'll be using.
 
 ```
 export NODE_ENV=development
