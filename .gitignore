@@ -1,0 +1,11 @@
+node_modules/
+credentials.js
+public/bundle.js
+public/bundle.js.gz
+.idea/*
+.nyc_output/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
