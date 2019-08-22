@@ -85,7 +85,7 @@ If you are using Atom (which you can download from https://atom.io/), go into yo
 
 You're all set up!
 
-## Running the tests
+## Testing
 
 ```
 npm test
