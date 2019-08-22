@@ -75,13 +75,13 @@ npm run nodemon
 ```
 
 Go to localhost:8081 and the site should be up. Nice!
-Now for a couple random things. We use snyk to check for security vulnerabilities in our npm packages, so install snyk globally like so:
+Now for a couple random things. Synk is used to check for security vulnerabilities in our npm packages, so install snyk globally like so:
 
 ```
 npm install -g snyk
 ```
 
-We recommend using Atom as your text editor. If you have something else that you prefer, go for it, but know that it may make style standardization a little tougher.
+Use Atom as your text editor. If you have something else that you prefer, go for it, but know that it may make style standardization a little tougher.
 If you are using Atom (which you can download from https://atom.io/), go into your preferences and install the package "Prettier." Then make sure it's enabled and press "shift+command+p". Search for "Prettier," then press "enter" on the option that toggles Format on Save. This will format your style so that everyone is using the same conventions.
 
 You're all set up!
