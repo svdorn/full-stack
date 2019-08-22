@@ -107,6 +107,9 @@ You can configure to deploy how you would like, I typically use AWS and AWS Elas
 -   [Redux Form](https://redux-form.com/7.2.0/)
 -   [React-Router](https://github.com/ReactTraining/react-router)
 
+## Style Guide
+I largely follow Airbnb's style guides for [React](https://github.com/airbnb/javascript/tree/master/react) and [JavaScript](https://github.com/airbnb/javascript) and use their [react-with-styles](https://github.com/airbnb/react-with-styles) for CSS consistency. If you haven't worked with React or JavaScript before it's good to read these style guides as you learn the languages so that you can follow best in practice styling as you write your first code.
+
 ## Author
 
 -   **Stephen Dorn**
